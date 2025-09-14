@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 rama3
+=======
+actualizo rama3
+actualizo rama3
+actualizo rama3 prueba1
+>>>>>>> b1e6cb53e9792a1dc0ca45292d6a110e5b9c2cae
